@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cedilla" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
   <advance width="254"/>
   <unicode hex="00B8"/>
+  <anchor x="139" y="0" name="_bottom"/>
   <outline>
     <contour>
       <point x="101" y="-210" type="curve" smooth="yes"/>
@@ -31,9 +32,6 @@
       <point x="10" y="-182" type="line"/>
       <point x="36" y="-201"/>
       <point x="67" y="-210"/>
-    </contour>
-    <contour>
-      <point x="139" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
 </glyph>

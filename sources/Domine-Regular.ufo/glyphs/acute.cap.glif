@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acute.cap" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.cap" format="2">
   <advance width="259"/>
+  <anchor x="67" y="720" name="_topcap"/>
   <outline>
     <contour>
       <point x="40" y="770" type="line"/>
@@ -15,9 +16,6 @@
       <point x="151" y="895"/>
       <point x="129" y="883"/>
       <point x="101" y="847" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="67" y="720" type="move" name="_topcap"/>
     </contour>
   </outline>
 </glyph>

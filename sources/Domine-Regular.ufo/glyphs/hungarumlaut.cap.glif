@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlaut.cap" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.cap" format="2">
   <advance width="425"/>
+  <anchor x="154" y="720" name="_topcap"/>
   <outline>
     <contour>
       <point x="40" y="770" type="line"/>
@@ -29,9 +30,6 @@
       <point x="331" y="895"/>
       <point x="309" y="883"/>
       <point x="281" y="847" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="154" y="720" type="move" name="_topcap"/>
     </contour>
   </outline>
 </glyph>

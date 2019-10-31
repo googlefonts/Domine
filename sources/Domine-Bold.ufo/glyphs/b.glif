@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="b" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
   <advance width="615"/>
   <unicode hex="0062"/>
+  <guideline x="78.0" y="0.0" angle="90.0" identifier="XaOBz1qFcl"/>
   <outline>
     <contour>
       <point x="577" y="275" type="curve" smooth="yes"/>
@@ -58,22 +59,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>78</real>
-      <key>y</key>
-      <real>0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.XaOBz1qFcl</key>
+      <real>5.0</real>
     </dict>
-  </array>
-  </dict>
   </lib>
 </glyph>

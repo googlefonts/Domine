@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="W" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
   <advance width="1051"/>
   <unicode hex="0057"/>
+  <guideline x="0.0" y="127.0" angle="0.0" identifier="PqFDrwD7j7"/>
+  <anchor x="529" y="720" name="topcap"/>
   <outline>
     <contour>
       <point x="737" y="127" type="line"/>
@@ -33,27 +35,11 @@
       <point x="799" y="662" type="line"/>
       <point x="878" y="642" type="line"/>
     </contour>
-    <contour>
-      <point x="529" y="720" type="move" name="topcap"/>
-    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>127</real>
+      <key>com.typemytype.robofont.guideline.magnetic.PqFDrwD7j7</key>
+      <real>5.0</real>
     </dict>
-  </array>
-  </dict>
   </lib>
 </glyph>

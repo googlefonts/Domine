@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eight" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight" format="2">
   <advance width="581"/>
   <unicode hex="0038"/>
+  <guideline x="96.0" y="0.0" angle="90.0" identifier="HXE0hozxQV"/>
+  <guideline x="496.0" y="0.0" angle="90.0" identifier="EMGcRllQpA"/>
   <outline>
     <contour>
       <point x="506" y="569" type="curve" smooth="yes"/>
@@ -59,34 +61,11 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>96</real>
-      <key>y</key>
-      <real>0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.EMGcRllQpA</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.HXE0hozxQV</key>
+      <real>5.0</real>
     </dict>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>496</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
-  </dict>
   </lib>
 </glyph>

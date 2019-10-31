@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="0" maximum="1000" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Domine-Bold.ufo" familyname="Domine" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Domine-Regular.ufo" familyname="Domine" stylename="Regular">
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

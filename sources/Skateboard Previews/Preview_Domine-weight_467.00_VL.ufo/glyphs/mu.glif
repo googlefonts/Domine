@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu" format="2">
+  <advance width="675"/>
+  <unicode hex="00B5"/>
+  <guideline x="0" y="247.0" angle="0" identifier="C7McPAyiQi"/>
+  <outline>
+    <contour>
+      <point x="108.797" y="-179.0" type="line"/>
+      <point x="219.807" y="-179.0" type="line"/>
+      <point x="209.807" y="59.0" type="line"/>
+      <point x="213.807" y="59.0" type="line"/>
+      <point x="222.939" y="13.0"/>
+      <point x="259.477" y="-10.0"/>
+      <point x="299.005" y="-10.0" type="curve" smooth="yes"/>
+      <point x="360.005" y="-10.0"/>
+      <point x="413.401" y="30.0"/>
+      <point x="450.797" y="100.0" type="curve"/>
+      <point x="454.797" y="100.0" type="line"/>
+      <point x="465.797" y="-10.0" type="line"/>
+      <point x="634.807" y="0.0" type="line"/>
+      <point x="634.807" y="48.005" type="line"/>
+      <point x="557.807" y="67.005" type="line"/>
+      <point x="557.807" y="540.0" type="line"/>
+      <point x="359.797" y="540.0" type="line"/>
+      <point x="359.797" y="491.995" type="line"/>
+      <point x="446.797" y="472.995" type="line"/>
+      <point x="446.797" y="220.005" type="line"/>
+      <point x="442.797" y="164.005"/>
+      <point x="431.665" y="131.005"/>
+      <point x="403.665" y="103.604" type="curve" smooth="yes"/>
+      <point x="378.599" y="80.137"/>
+      <point x="346.868" y="68.005"/>
+      <point x="311.868" y="68.005" type="curve" smooth="yes"/>
+      <point x="278.406" y="68.005"/>
+      <point x="248.939" y="84.538"/>
+      <point x="234.873" y="116.071" type="curve" smooth="yes"/>
+      <point x="223.807" y="140.071"/>
+      <point x="219.807" y="178.005"/>
+      <point x="219.807" y="264.005" type="curve" smooth="yes"/>
+      <point x="219.807" y="540.0" type="line"/>
+      <point x="41.797" y="540.0" type="line"/>
+      <point x="41.797" y="491.995" type="line"/>
+      <point x="108.797" y="472.995" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.C7McPAyiQi</key>
+      <real>5.0</real>
+    </dict>
+  </lib>
+</glyph>

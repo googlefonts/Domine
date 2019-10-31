@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.cap" format="2">
+  <advance width="259"/>
+  <anchor x="191.0" y="720.0" name="_topcap"/>
+  <outline>
+    <contour>
+      <point x="160.406" y="841.863" type="line"/>
+      <point x="124.934" y="886.736"/>
+      <point x="105.736" y="897.335"/>
+      <point x="74.665" y="897.335" type="curve" smooth="yes"/>
+      <point x="47.462" y="897.335"/>
+      <point x="32.995" y="882.599"/>
+      <point x="32.995" y="863.132" type="curve" smooth="yes"/>
+      <point x="32.995" y="839.33"/>
+      <point x="50.792" y="827.665"/>
+      <point x="106.929" y="793.863" type="curve" smooth="yes"/>
+      <point x="153.929" y="765.33" type="line"/>
+      <point x="220.939" y="765.33" type="line"/>
+    </contour>
+  </outline>
+</glyph>

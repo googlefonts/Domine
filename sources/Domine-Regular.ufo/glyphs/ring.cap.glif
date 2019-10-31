@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ring.cap" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.cap" format="2">
   <advance width="240"/>
+  <anchor x="119" y="720" name="_topcap"/>
   <outline>
     <contour>
       <point x="44" y="824" type="curve" smooth="yes"/>
@@ -29,9 +30,6 @@
       <point x="119" y="803" type="curve" smooth="yes"/>
       <point x="107" y="803"/>
       <point x="98" y="812"/>
-    </contour>
-    <contour>
-      <point x="119" y="720" type="move" name="_topcap"/>
     </contour>
   </outline>
 </glyph>

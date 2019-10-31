@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="S" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
   <advance width="613"/>
   <unicode hex="0053"/>
+  <anchor x="295" y="720" name="topcap"/>
+  <anchor x="328" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="322" y="-11" type="curve" smooth="yes"/>
@@ -48,12 +50,6 @@
       <point x="155" y="58" type="line"/>
       <point x="196" y="10"/>
       <point x="246" y="-11"/>
-    </contour>
-    <contour>
-      <point x="295" y="720" type="move" name="topcap"/>
-    </contour>
-    <contour>
-      <point x="328" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
