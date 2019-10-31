@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="611"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="fraction" xOffset="292"/>
+    <component base="onesuperior" xOffset="-20"/>
+    <component base="fourinferior" xOffset="308"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="607"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="381" y="41" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="41" type="line"/>
+      <point x="547" y="58" type="line"/>
+      <point x="348" y="325" type="line"/>
+      <point x="499" y="480" type="line"/>
+      <point x="572" y="499" type="line"/>
+      <point x="572" y="540" type="line"/>
+      <point x="357" y="540" type="line"/>
+      <point x="357" y="499" type="line"/>
+      <point x="423" y="480" type="line"/>
+      <point x="210" y="251" type="line"/>
+      <point x="210" y="540" type="line"/>
+      <point x="36" y="540" type="line"/>
+      <point x="36" y="499" type="line"/>
+      <point x="113" y="480" type="line"/>
+      <point x="113" y="60" type="line"/>
+      <point x="36" y="41" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="287" y="41" type="line"/>
+      <point x="210" y="60" type="line"/>
+      <point x="210" y="204" type="line"/>
+      <point x="286" y="268" type="line"/>
+      <point x="440" y="60" type="line"/>
+    </contour>
+  </outline>
+</glyph>
