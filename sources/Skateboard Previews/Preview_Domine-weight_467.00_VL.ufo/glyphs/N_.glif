@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="808"/>
+  <unicode hex="004E"/>
+  <anchor x="403.736" y="720.0" name="topcap"/>
+  <anchor x="403.736" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="128.731" y="71.005" type="line"/>
+      <point x="44.731" y="50.005" type="line"/>
+      <point x="44.731" y="0.0" type="line"/>
+      <point x="291.741" y="0.0" type="line"/>
+      <point x="291.741" y="50.005" type="line"/>
+      <point x="207.741" y="71.005" type="line"/>
+      <point x="207.741" y="587.325" type="line"/>
+      <point x="599.061" y="0.0" type="line"/>
+      <point x="688.741" y="0.0" type="line"/>
+      <point x="688.741" y="648.995" type="line"/>
+      <point x="772.741" y="669.995" type="line"/>
+      <point x="772.741" y="720.0" type="line"/>
+      <point x="525.731" y="720.0" type="line"/>
+      <point x="525.731" y="669.995" type="line"/>
+      <point x="609.731" y="648.995" type="line"/>
+      <point x="609.731" y="178.675" type="line"/>
+      <point x="254.411" y="720.0" type="line"/>
+      <point x="44.731" y="720.0" type="line"/>
+      <point x="44.731" y="669.995" type="line"/>
+      <point x="128.731" y="648.995" type="line"/>
+    </contour>
+  </outline>
+</glyph>

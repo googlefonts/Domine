@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="K" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
   <advance width="747"/>
   <unicode hex="004B"/>
+  <anchor x="393" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="260" y="641" type="line"/>
@@ -32,9 +33,6 @@
       <point x="404" y="662" type="line"/>
       <point x="495" y="641" type="line"/>
       <point x="260" y="397" type="line"/>
-    </contour>
-    <contour>
-      <point x="393" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

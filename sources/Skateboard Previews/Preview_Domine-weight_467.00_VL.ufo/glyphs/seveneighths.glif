@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seveneighths" format="2">
+  <advance width="625"/>
+  <unicode hex="215E"/>
+  <outline>
+    <component base="fraction" xOffset="286.137"/>
+    <component base="eightinferior" xOffset="305"/>
+    <component base="sevensuperior" xOffset="-7.269"/>
+  </outline>
+</glyph>

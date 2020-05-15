@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
   <advance width="352"/>
   <unicode hex="02C6"/>
+  <anchor x="176" y="639" name="_top"/>
   <outline>
     <contour>
       <point x="312" y="639" type="line"/>
@@ -11,9 +12,6 @@
       <point x="40" y="639" type="line"/>
       <point x="128" y="790" type="line"/>
       <point x="223" y="790" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="639" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="J" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
   <advance width="583"/>
   <unicode hex="004A"/>
+  <anchor x="417" y="720" name="topcap"/>
   <outline>
     <contour>
       <point x="365" y="207" type="line" smooth="yes"/>
@@ -32,9 +33,6 @@
       <point x="266" y="720" type="line"/>
       <point x="266" y="677" type="line"/>
       <point x="365" y="656" type="line"/>
-    </contour>
-    <contour>
-      <point x="417" y="720" type="move" name="topcap"/>
     </contour>
   </outline>
 </glyph>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_f" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f" format="2">
   <advance width="698"/>
   <unicode hex="FB00"/>
   <outline>
@@ -71,20 +71,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="21" width="-21" />
-      <hstem pos="490" width="50" />
-      <hstem pos="722" width="38" />
-      <vstem pos="111" width="97" />
-      <vstem pos="421" width="97" />
-      <vstem pos="633" width="103" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data></data>
+    </dict>
   </lib>
 </glyph>

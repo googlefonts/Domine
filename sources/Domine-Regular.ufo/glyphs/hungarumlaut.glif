@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlaut" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
   <advance width="425"/>
   <unicode hex="02DD"/>
+  <anchor x="154" y="639" name="_top"/>
   <outline>
     <contour>
       <point x="40" y="639" type="line"/>
@@ -30,9 +31,6 @@
       <point x="312" y="795"/>
       <point x="293" y="775"/>
       <point x="255" y="715" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="154" y="639" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

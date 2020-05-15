@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron.cap" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.cap" format="2">
   <advance width="352"/>
+  <anchor x="176" y="720" name="_topcap"/>
   <outline>
     <contour>
       <point x="223" y="769" type="line"/>
@@ -10,9 +11,6 @@
       <point x="176" y="829" type="line"/>
       <point x="289" y="890" type="line"/>
       <point x="342" y="890" type="line"/>
-    </contour>
-    <contour>
-      <point x="176" y="720" type="move" name="_topcap"/>
     </contour>
   </outline>
 </glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Aringacute</key>
+    <string>A_ringacute.glif</string>
+    <key>colon</key>
+    <string>colon.glif</string>
+    <key>ellipsis</key>
+    <string>ellipsis.glif</string>
+    <key>guillemotleft</key>
+    <string>guillemotleft.glif</string>
+    <key>guillemotright</key>
+    <string>guillemotright.glif</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase.glif</string>
+    <key>semicolon</key>
+    <string>semicolon.glif</string>
+  </dict>
+</plist>

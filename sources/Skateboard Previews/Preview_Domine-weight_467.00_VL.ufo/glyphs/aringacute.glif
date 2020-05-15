@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute" format="2">
+  <advance width="543"/>
+  <unicode hex="01FB"/>
+  <outline>
+    <contour>
+      <point x="203.269" y="652.0" type="line"/>
+      <point x="157.269" y="590.0" type="line"/>
+      <point x="210.269" y="590.0" type="line"/>
+      <point x="241.269" y="619.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="321.269" y="698.0" type="line"/>
+      <point x="361.269" y="733.0"/>
+      <point x="370.269" y="745.0"/>
+      <point x="370.269" y="764.0" type="curve" smooth="yes"/>
+      <point x="370.269" y="783.0"/>
+      <point x="358.269" y="795.0"/>
+      <point x="336.269" y="795.0" type="curve" smooth="yes"/>
+      <point x="314.269" y="795.0"/>
+      <point x="303.269" y="786.0"/>
+      <point x="271.269" y="744.0" type="curve"/>
+    </contour>
+    <component base="a"/>
+    <component base="ring" xOffset="143.269" yOffset="-32"/>
+  </outline>
+</glyph>

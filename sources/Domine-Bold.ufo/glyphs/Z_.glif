@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Z" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
   <advance width="659"/>
   <unicode hex="005A"/>
+  <guideline x="63.0" y="0.0" angle="90.0" identifier="T5mJpUsf9o"/>
+  <guideline x="572.0" y="0.0" angle="90.0" identifier="urTObwNbTu"/>
+  <anchor x="335" y="720" name="topcap"/>
+  <anchor x="342" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="502" y="75" type="line"/>
@@ -19,42 +23,13 @@
       <point x="621" y="238" type="line"/>
       <point x="534" y="238" type="line"/>
     </contour>
-    <contour>
-      <point x="335" y="720" type="move" name="topcap"/>
-    </contour>
-    <contour>
-      <point x="342" y="0" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>63</real>
-      <key>y</key>
-      <real>0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.T5mJpUsf9o</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.urTObwNbTu</key>
+      <real>5.0</real>
     </dict>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>572</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
-  </dict>
   </lib>
 </glyph>
