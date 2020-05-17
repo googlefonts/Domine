@@ -12,7 +12,7 @@ feature liga {
 	sub f h by f_h;
 	sub f j by f_j;
 	sub f k by f_k; 
-} liga;
+} liga;
 
 feature frac {
 	sub one [slash fraction] two by onehalf;
@@ -24,7 +24,7 @@ feature frac {
 	sub three [slash fraction] eight by threeeighths;
 	sub five [slash fraction] eight by fiveeighths;
 	sub seven [slash fraction] eight by seveneighths;
-} frac;
+} frac;
 
 feature sinf {
 	sub zero by zeroinferior;
@@ -37,7 +37,7 @@ feature sinf {
 	sub seven by seveninferior;
 	sub eight by eightinferior;
 	sub nine by nineinferior;
-} sinf;
+} sinf;
 
 feature sups {
 	sub zero by zerosuperior;
@@ -50,12 +50,12 @@ feature sups {
 	sub seven by sevensuperior;
 	sub eight by eightsuperior;
 	sub nine by ninesuperior;
-} sups;
+} sups;
 
 feature ordn {
 	sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 	sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-} ordn;
+} ordn;
 
 feature kern { # Kerning
 
@@ -1909,5 +1909,5 @@ lookup kern0 {
 
 
 
-
+
 
