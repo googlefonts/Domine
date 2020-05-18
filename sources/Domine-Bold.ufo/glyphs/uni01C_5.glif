@@ -5,6 +5,6 @@
   <outline>
     <component base="D"/>
     <component base="z" xOffset="779"/>
-    <component base="caron" xOffset="883"/>
+    <component base="caroncomb" xOffset="883"/>
   </outline>
 </glyph>
