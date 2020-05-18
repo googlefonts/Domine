@@ -558,6 +558,7 @@
       <string>greater</string>
       <string>eth</string>
       <string>ampersand</string>
+      <string>currency</string>
     </array>
   </dict>
 </plist>
