@@ -70,10 +70,4 @@
       <point x="425" y="563" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <data></data>
-    </dict>
-  </lib>
 </glyph>
