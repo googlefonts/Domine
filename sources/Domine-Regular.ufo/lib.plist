@@ -74,6 +74,19 @@
         </dict>
       </dict>
     </dict>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+      </dict>
+    </array>
     <key>com.typemytype.robofont.guideline.magnetic.4MmJ0FnJ43</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.GqT5GZTLXN</key>
