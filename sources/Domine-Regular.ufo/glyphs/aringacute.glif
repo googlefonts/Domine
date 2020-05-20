@@ -22,6 +22,6 @@
       <point x="268" y="744" type="curve"/>
     </contour>
     <component base="a"/>
-    <component base="ring" xOffset="140" yOffset="-32"/>
+    <component base="ringcomb" xOffset="140" yOffset="-32"/>
   </outline>
 </glyph>

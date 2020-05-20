@@ -10,6 +10,6 @@
       <point x="430" y="582" type="line"/>
     </contour>
     <component base="o"/>
-    <component base="acute" xOffset="221"/>
+    <component base="acutecomb" xOffset="221"/>
   </outline>
 </glyph>

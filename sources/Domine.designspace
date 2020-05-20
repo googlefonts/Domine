@@ -1,21 +1,82 @@
-<?xml version='1.0' encoding='utf-8'?>
-<designspace format="3">
-    <axes>
-        <axis default="0" maximum="1000" minimum="0" name="weight" tag="wght" />
-    </axes>
-    <sources>
-        <source familyname="Domine" filename="Domine-Bold.ufo" stylename="Bold">
-            <location>
-                <dimension name="weight" xvalue="1000" />
-            </location>
-        </source>
-        <source familyname="Domine" filename="Domine-Regular.ufo" stylename="Regular">
-            <groups copy="1" />
-            <features copy="1" />
-            <info copy="1" />
-            <location>
-                <dimension name="weight" xvalue="0" />
-            </location>
-        </source>
-    </sources>
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400"/>
+  </axes>
+  <sources>
+    <source filename="Domine-Regular.ufo" name="Domine Regular" familyname="Domine" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Domine-Bold.ufo" name="Domine Bold" familyname="Domine" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Domine Regular" familyname="Domine" stylename="Regular" filename="instance_ufos/Domine-Regular.ufo" stylemapfamilyname="Domine" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>5</integer>
+                <integer>3</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>6</integer>
+                <integer>2</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Domine Bold" familyname="Domine" stylename="Bold" filename="instance_ufos/Domine-Bold.ufo" stylemapfamilyname="Domine" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>4</integer>
+                <integer>8</integer>
+                <integer>3</integer>
+                <integer>4</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>6</integer>
+                <integer>2</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
 </designspace>
