@@ -4,6 +4,8 @@
   <dict>
     <key>asterisk</key>
     <string>asterisk.glif</string>
+    <key>brevecomb.case</key>
+    <string>brevecomb.case.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
     <key>dollar</key>

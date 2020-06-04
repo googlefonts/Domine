@@ -109,6 +109,8 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4562446032</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
@@ -574,6 +576,32 @@
       <string>eth</string>
       <string>ampersand</string>
       <string>currency</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>circumflexcomb</string>
+      <string>tildecomb</string>
+      <string>macroncomb</string>
+      <string>brevecomb</string>
+      <string>dotaccentcomb</string>
+      <string>dieresiscomb</string>
+      <string>ringcomb</string>
+      <string>hungarumlautcomb</string>
+      <string>caroncomb</string>
+      <string>dotbelowcomb</string>
+      <string>commaaccentcomb</string>
+      <string>cedillacomb</string>
+      <string>ogonekcomb</string>
+      <string>gravecomb.case</string>
+      <string>acutecomb.case</string>
+      <string>circumflexcomb.case</string>
+      <string>tildecomb.case</string>
+      <string>macroncomb.case</string>
+      <string>brevecomb.case</string>
+      <string>dotaccentcomb.case</string>
+      <string>dieresiscomb.case</string>
+      <string>ringcomb.case</string>
+      <string>hungarumlautcomb.case</string>
+      <string>caroncomb.case</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

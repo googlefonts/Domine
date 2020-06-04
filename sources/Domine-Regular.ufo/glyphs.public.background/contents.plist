@@ -4,6 +4,8 @@
   <dict>
     <key>Aringacute</key>
     <string>A_ringacute.glif</string>
+    <key>brevecomb.case</key>
+    <string>brevecomb.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>ellipsis</key>

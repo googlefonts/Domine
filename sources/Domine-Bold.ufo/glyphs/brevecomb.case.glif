@@ -3,20 +3,20 @@
   <anchor x="176" y="720" name="_topcap"/>
   <outline>
     <contour>
-      <point x="344" y="899" type="line"/>
-      <point x="341" y="785"/>
-      <point x="272" y="718"/>
-      <point x="176" y="718" type="curve" smooth="yes"/>
-      <point x="76" y="718"/>
-      <point x="20" y="791"/>
-      <point x="20" y="899" type="curve"/>
-      <point x="83" y="899" type="line"/>
-      <point x="85" y="841"/>
-      <point x="124" y="817"/>
-      <point x="176" y="817" type="curve" smooth="yes"/>
-      <point x="242" y="817"/>
-      <point x="281" y="841"/>
-      <point x="281" y="899" type="curve"/>
+      <point x="338" y="938" type="line"/>
+      <point x="338" y="830"/>
+      <point x="276" y="757"/>
+      <point x="176" y="757" type="curve"/>
+      <point x="76" y="757"/>
+      <point x="14" y="830"/>
+      <point x="14" y="938" type="curve"/>
+      <point x="77" y="938" type="line"/>
+      <point x="79" y="880"/>
+      <point x="124" y="856"/>
+      <point x="176" y="856" type="curve"/>
+      <point x="228" y="856"/>
+      <point x="273" y="880"/>
+      <point x="275" y="938" type="curve"/>
     </contour>
   </outline>
   <lib>
